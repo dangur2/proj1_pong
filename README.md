@@ -4,3 +4,8 @@ As I want to become a standalone, selftaught gamedeveloper I finally decided to 
 with mostly terminal based games (numberhunter>rockPaperScissor>combat_game>merchant_simulator>inventory_system>combat_arena>text_adventure).
 All these games forced me to learn a lot of concepts like OOP, Loops, Polymorphism, Interface, State machines, Composition etc. 
 As this is my first GUI game made with 0 Ai I decided to start logging my progress and development!
+
+![Example Image](pong_example1)
+
+![Example Image](pong_example2)
+
