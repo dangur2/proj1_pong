@@ -5,7 +5,7 @@ with mostly terminal based games (numberhunter>rockPaperScissor>combat_game>merc
 All these games forced me to learn a lot of concepts like OOP, Loops, Polymorphism, Interface, State machines, Composition etc. 
 As this is my first GUI game made with 0 Ai I decided to start logging my progress and development!
 
-![Example Image](pong_example1)
+![Example Image](pong_example1.png)
 
-![Example Image](pong_example2)
+![Example Image](pong_example2.png)
 
